@@ -1,0 +1,45 @@
+# Distribuição de categorias de entidades (amostra de 100 documentos)
+
+Este documento apresenta a distribuição das categorias de entidades nomeadas no gold standard.
+
+## Metodologia
+
+- Total de documentos na amostra: `100`.
+- Total de entidades contabilizadas: `2605`.
+- Ordenação: contagem decrescente.
+
+## Distribuição por categoria
+
+| Categoria | Contagem | Percentual |
+|---|---:|---:|
+| ORGANIZACAO | 271 | 10.40% |
+| PAIS_ESTADO_CIDADE | 233 | 8.94% |
+| ENDERECO | 216 | 8.29% |
+| CEP | 190 | 7.29% |
+| NOME_PESSOA | 181 | 6.95% |
+| NUMERO_GENERICO | 173 | 6.64% |
+| LEGISLACAO | 161 | 6.18% |
+| PERIODO_TEMPO | 143 | 5.49% |
+| TELEFONE | 109 | 4.18% |
+| CODIGO_IDENTIFICADOR | 104 | 3.99% |
+| EMAIL | 98 | 3.76% |
+| CPF | 88 | 3.38% |
+| CNPJ | 87 | 3.34% |
+| NACIONALIDADE | 81 | 3.11% |
+| ESTADO_CIVIL | 79 | 3.03% |
+| IDENTIDADE | 72 | 2.76% |
+| CTPS | 67 | 2.57% |
+| HORARIO | 56 | 2.15% |
+| PIS | 53 | 2.03% |
+| VALOR_MONETARIO | 41 | 1.57% |
+| PORCENTAGEM | 37 | 1.42% |
+| DADO_SAUDE_VIDA_SEXUAL | 14 | 0.54% |
+| URL | 14 | 0.54% |
+| OAB | 14 | 0.54% |
+| JURISPRUDENCIA | 9 | 0.35% |
+| MATRICULA | 4 | 0.15% |
+| ORIGEM_RACIAL_ETNICA | 3 | 0.12% |
+| IDENTIFICADOR_DIGITAL | 3 | 0.12% |
+| OPINIAO_POLITICA | 2 | 0.08% |
+| CONVICCAO_RELIGIOSA | 1 | 0.04% |
+| DADO_BANCARIO | 1 | 0.04% |
