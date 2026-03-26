@@ -13,7 +13,7 @@ Neste projeto, você encontrará os seguintes artefatos principais:
 - **`classes_entidades.md`**
   Detalhamento em formato de tabela de todas as classes de entidades mapeadas no projeto. Inclui descrições, exemplos práticos de formatação, frequência de ocorrência no dataset e métricas de F1-Score obtidas.
 
-- **`Documento Base de Definições de Padrões de Texto.pdf`**
+- **`diretrizes_anotacao_ner.pdf`**
   Documentação de referência que estabelece as diretrizes completas, regras de negócio e padrões utilizados para a anotação e extração das entidades no escopo jurídico.
 
 - **`distribuicao_categorias_amostras_gold_standard_real.jsonl`**
