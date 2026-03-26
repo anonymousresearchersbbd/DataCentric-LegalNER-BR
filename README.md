@@ -16,6 +16,9 @@ Neste projeto, você encontrará os seguintes artefatos principais:
 - **`Documento Base de Definições de Padrões de Texto.pdf`**
   Documentação de referência que estabelece as diretrizes completas, regras de negócio e padrões utilizados para a anotação e extração das entidades no escopo jurídico.
 
+- **`distribuicao_categorias_amostras_gold_standard_real.jsonl`**
+  Apresenta a distribuição quantitativa e o percentual das categorias de entidades nomeadas mapeadas no corpus do *gold standard* real. (Nota: o conteúdo do arquivo está estruturado em formatação texto/markdown).
+
 - **`modelo_dados.json`**
   Arquivo que define a estrutura de dados e o formato JSON estrito esperado para as saídas geradas pelo modelo de NER durante a extração.
 
