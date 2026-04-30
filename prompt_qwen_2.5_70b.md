@@ -103,7 +103,32 @@ Antes de classificar como "Números", verifique se é:
     {"text": "30", "label": "Números"}
 ]
 
-... (Pode manter os outros exemplos se quiser) ...
+### Exemplo 2:
+**Texto**: "Empresa ABC Ltda., CNPJ: 12.345.678/0001-90, localizada em Campina Grande/PB, deve entregar o material em 15 dias úteis."
+**Saída**:
+[
+    {"text": "ABC Ltda.", "label": "Organização"},
+    {"text": "CNPJ: 12.345.678/0001-90", "label": "CNPJ"},
+    {"text": "Campina Grande/PB", "label": "PCE"},
+    {"text": "15", "label": "Números"}
+]
+
+### Exemplo 3:
+**Texto**: "O funcionário trabalha na AV. CORALIO SOARES DE OLIVEIRA S/N, bairro Centro, São Paulo/SP."
+**Saída**:
+[
+    {"text": "AV. CORALIO SOARES DE OLIVEIRA S/N, bairro Centro", "label": "Local"},
+    {"text": "São Paulo/SP", "label": "PCE"}
+]
+
+### Exemplo 4:
+**Texto**: "PROAD 10530/2023 - Processo administrativo referente ao funcionário João Silva, CPF: 123.456.789-00."
+**Saída**:
+[
+    {"text": "PROAD 10530/2023", "label": "Número Interno"},
+    {"text": "João Silva", "label": "Pessoa"},
+    {"text": "CPF: 123.456.789-00", "label": "CPF"}
+]
 
 ## TEXTO PARA ANÁLISE
 {texto}
