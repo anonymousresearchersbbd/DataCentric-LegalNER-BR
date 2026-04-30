@@ -136,4 +136,3 @@ Antes de classificar como "Números", verifique se é:
 ---
 
 # RESPOSTA (APENAS A LISTA DE DICIONÁRIOS):
-
